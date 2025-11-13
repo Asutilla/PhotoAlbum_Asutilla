@@ -23,3 +23,14 @@ Homepage (Collection View): Serves as the main navigation hub, displaying five d
 Gallery Page: Displays all photos within a selected collection (e.g., the "Nature Collection") in a responsive grid layout.
 
 5. Screenshot of Sample Output (Optional)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20140924.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141033.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141042.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141109.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141132.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141145.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141154.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141207.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141215.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141229.png)
+![image alt](https://github.com/Asutilla/PhotoAlbum_Asutilla/blob/1e77e8b48dba6e71db924768d55963205cdbe5fb/public/images/Screenshot%202025-11-13%20141236.png)
